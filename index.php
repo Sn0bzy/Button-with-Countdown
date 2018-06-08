@@ -14,7 +14,7 @@
 		<p class="text-xs-center">Geri sayım bittiğinde buton aktif ve tıklanabilir olacaktır..</p>
 		<hr>
 		<center>
-		<form name="countdown-hc">
+		<form name="countdownhc">
 		<input name="submitbtn" class="btn btn-primary text-xs-center" onclick="location.href='https://hasan.im'" type="button" value="Git" />
 		</form>
 		</center>
